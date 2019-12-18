@@ -1,6 +1,7 @@
 == Chapter III
 
-Other experiences travelling in America
+[.chapter-subtitle--blurb]
+Other Experiences Travelling in America
 
 When I was in the Yearly Meeting upon Rhode Island,
 there was a query concerning what Friends should do,

@@ -6,6 +6,7 @@ ____
 
 == Chapter 1
 
+[.chapter-subtitle--blurb]
 An Account of the Early Life of John Richardson,
 Introduced with a Brief Relation Concerning His Father, William Richardson.
 

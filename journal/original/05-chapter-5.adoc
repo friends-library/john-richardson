@@ -1,5 +1,6 @@
 == Chapter V
 
+[.chapter-subtitle--blurb]
 An Account of His Visit to Friends in Ireland.
 
 In the year 1722, it was renewed upon me to go into Ireland;
@@ -491,7 +492,7 @@ and to pretend to draw any command or example from Christ or his apostles,
 out of the New Testament, for that purpose, appears to me weak and inconsistent.
 
 We had some farther discourse upon the ground of his right to tithes,
-whether jure divino, as they used to be formerly claimed; or jure humano, that is,
+whether __jure divino__, as they used to be formerly claimed; or __jure humano__, that is,
 by human law, as most of the modern priests seem to choose to fix their title.
 I bid him fix his right for tithes on which claim he`' pleased,
 and I would endeavour to answer him as well as I could;
