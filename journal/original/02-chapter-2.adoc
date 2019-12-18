@@ -1,6 +1,7 @@
 == Chapter II
 
-An account of his first visit to Friends in America.
+[.chapter-subtitle--blurb]
+An Account of His First Visit to Friends in America.
 
 Now the time came for my going into America,
 having had a sight of it about ten years before.
@@ -949,7 +950,7 @@ and in much fear , for the more Truth appears,
 the more it brings the creature into self-abasement.
 
 A passage is here revived to my mind, which was thus: After a large Yearly Meeting,
-Vv-here were many able ministers, worthy William Penn, who was one of them,
+where were many able ministers, worthy William Penn, who was one of them,
 taking me aside, said, The main part of the service of this day`'s work went on thy side,
 and we saw it, and were willing and easy to give way to the Truth,
 though it was through thee, who appears but like a shrub;
@@ -958,7 +959,7 @@ thou mayest be cheerful.
 From which I gathered, that he thought I was too much inclined to be cast down;
 therefore I gave him this true answer, I endeavour to keep in a medium,
 out of all extremes, as believing it to be most agreeable to my station;
-with this remark, the worst of my times rather imbitter the best to me.
+with this remark, the worst of my times rather embitter the best to me.
 William shook his head, and said with much respect,
 There are many who steer in this course besides thee,
 and it is the safest path for us to walk in;
@@ -1595,11 +1596,16 @@ in preparing a writing against George Keith,
 when he came to Flushing meeting upon the aforesaid island,
 which writing was to this effect, viz:
 
-"`Colonel West, an inhabitant in these parts, who died and made Miles Forster a trustee,
+[.embedded-content-document.legal]
+--
+
+Colonel West, an inhabitant in these parts, who died and made Miles Forster a trustee,
 gave by Will a considerable sum of money to poor Friends of London,
 which money was ordered by the testator to be put into the hands
 of some faithful Friends of the aforesaid city of London,
-to distribute as above.`"
+to distribute as above.
+
+--
 
 A true copy of which Will we obtained,
 and at the meeting made it fairly appear to George Keith`'s face,

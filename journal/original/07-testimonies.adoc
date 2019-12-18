@@ -1,5 +1,6 @@
 == Testimonies of John Richardson
 
+[.chapter-subtitle--blurb]
 The Testimony of Friends belonging to Gisbrough Monthly Meeting,
 concerning our worthy friend John Richardson,
 who departed this life near Hutton-in-the-Hole, the 2nd of the Fourth month, 1753,
@@ -28,10 +29,14 @@ he appeared more and more heavenly-minded, and seemed to grow in the life of rel
 that we hope he is now at rest in the fruition of that happiness,
 prepared for such as hold on to the end in well-doing.
 
+[.small-break]
+'''
+
 Signed on behalf of the said meeting, held at Castleton, on the 22nd of the third month,
 1754.
 
-The Testimony of Friends from the Quarterly Meeting held at York.
+[.blurb]
+=== The Testimony of Friends from the Quarterly Meeting held at York.
 
 On reading the testimony given from the Monthly Meeting of Gisbrough,
 concerning our late ancient and worthy friend John Richardson, deceased,
@@ -56,6 +61,9 @@ To divers of us who visited him towards the close of his time,
 he appeared in a heavenly frame of mind, to our great comfort,
 evidencing a preparation for that eternal bliss whereinto, we doubt not, he is entered,
 and now reaps the fruits of his labours.
+
+[.small-break]
+'''
 
 Signed in and on behalf of our Quarterly Meeting, held at York,
 the 27th and 28th of the third month, 1754.

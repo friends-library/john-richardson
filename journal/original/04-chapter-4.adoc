@@ -1,5 +1,6 @@
 == Chapter IV.
 
+[.chapter-subtitle--blurb]
 Travels to Barbados, Jamaica, and Return to England
 
 Now I may say something of our affairs upon the sea in this voyage.
@@ -381,6 +382,9 @@ but lived in peace and true love one with another,
 and were glad when we could serve Truth and Friends: therefore I find it on my mind,
 in this place, to insert the following relation concerning her, viz:
 
+[.embedded-content-document.testimony]
+--
+
 She was descended of an honest and considerable family of the Robinsons,
 and was convinced in her young years, and received the Truth in the love of it.
 It became precious to her above all things in this world;
@@ -535,6 +539,8 @@ and who have not loved their lives unto death,
 but given up that life they had in any wrong thing whatsoever.
 
 She departed this life the 18th of twelfth month, 1711, aged about thirty-three years.
+
+--
 
 Not long after the departure of my wife,
 it came upon me to visit the southern parts of England, and some parts of Wales,
